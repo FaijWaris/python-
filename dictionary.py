@@ -14,3 +14,4 @@ print(marks.items())  # returns key-value pairs
 
 print(marks.get("harry3"))#its gives none if key is not present
 print(marks["harry3"])#it will give error if key is not present
+
